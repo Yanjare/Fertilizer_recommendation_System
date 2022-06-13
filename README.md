@@ -1,4 +1,4 @@
-# Crop-recommendation
+# Fertilizer Recommendation  System
 Implementation on kaggle: [Click Here to see!](https://www.kaggle.com/nandinibagga/fertilizer-type-prediction)
 
 Dataset: [Fertlizer Prediction Dataset](https://www.kaggle.com/gdabhishek/fertilizer-prediction)
